@@ -1,0 +1,14 @@
+C:\Users\macie\repos\videogames\bin\Debug\netcoreapp3.1\videogames.exe
+C:\Users\macie\repos\videogames\bin\Debug\netcoreapp3.1\videogames.deps.json
+C:\Users\macie\repos\videogames\bin\Debug\netcoreapp3.1\videogames.runtimeconfig.json
+C:\Users\macie\repos\videogames\bin\Debug\netcoreapp3.1\videogames.runtimeconfig.dev.json
+C:\Users\macie\repos\videogames\bin\Debug\netcoreapp3.1\videogames.dll
+C:\Users\macie\repos\videogames\bin\Debug\netcoreapp3.1\videogames.pdb
+C:\Users\macie\repos\videogames\obj\Debug\netcoreapp3.1\videogames.csproj.AssemblyReference.cache
+C:\Users\macie\repos\videogames\obj\Debug\netcoreapp3.1\videogames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\repos\videogames\obj\Debug\netcoreapp3.1\videogames.AssemblyInfoInputs.cache
+C:\Users\macie\repos\videogames\obj\Debug\netcoreapp3.1\videogames.AssemblyInfo.cs
+C:\Users\macie\repos\videogames\obj\Debug\netcoreapp3.1\videogames.csproj.CoreCompileInputs.cache
+C:\Users\macie\repos\videogames\obj\Debug\netcoreapp3.1\videogames.dll
+C:\Users\macie\repos\videogames\obj\Debug\netcoreapp3.1\videogames.pdb
+C:\Users\macie\repos\videogames\obj\Debug\netcoreapp3.1\videogames.genruntimeconfig.cache
